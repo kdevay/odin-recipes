@@ -1,0 +1,21 @@
+body {
+    font-family: "Nunito", "Montserrat", sans-serif;
+    color: black;
+    background-color: #dec3a6;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+li,
+.clickable {
+    background-color: #e8d5c1;
+    width: 180px;
+    text-align: center;
+}
