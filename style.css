@@ -13,9 +13,17 @@ a {
     color: black;
 }
 
-li,
-.clickable {
+li .clickable {
     background-color: #e8d5c1;
     width: 180px;
     text-align: center;
 }
+
+.ingredients {
+    padding-left: 0px;
+}
+
+.step {
+    padding-left: 18px;
+}
+
